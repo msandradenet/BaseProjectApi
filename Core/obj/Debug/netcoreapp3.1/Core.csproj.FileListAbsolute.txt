@@ -1,0 +1,17 @@
+C:\Workspace\BaseProject\BackEnd\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Workspace\BaseProject\BackEnd\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Workspace\BaseProject\BackEnd\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Workspace\BaseProject\BackEnd\Core\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Workspace\BaseProject\BackEnd\Core\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Workspace\BaseProject\BackEnd\Core\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Workspace\BaseProject\BackEnd\Core\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Workspace\BaseProject\BackEnd\Core\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Workspace\BaseProject\BackEnd\Core\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Workspace\BaseProject\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Workspace\BaseProject\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\BaseProject\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Workspace\BaseProject\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Workspace\BaseProject\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Workspace\BaseProject\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.csproj.CopyComplete
+C:\Workspace\BaseProject\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Workspace\BaseProject\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.pdb

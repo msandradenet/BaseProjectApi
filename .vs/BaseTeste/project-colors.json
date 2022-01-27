@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "40037800-cde1-4fbb-8ba2-8be5ee9755bb": {
+      "ProjectGuid": "40037800-cde1-4fbb-8ba2-8be5ee9755bb",
+      "DisplayName": "API",
+      "ColorIndex": 0
+    },
+    "ec4c3a8f-4ca8-4a3c-8772-6ac78f4e103f": {
+      "ProjectGuid": "ec4c3a8f-4ca8-4a3c-8772-6ac78f4e103f",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "dce2bb12-cd74-40ff-8186-46536c318a95": {
+      "ProjectGuid": "dce2bb12-cd74-40ff-8186-46536c318a95",
+      "DisplayName": "Shared",
+      "ColorIndex": 2
+    },
+    "0701a78a-4eaf-44a9-8636-334eae1ad896": {
+      "ProjectGuid": "0701a78a-4eaf-44a9-8636-334eae1ad896",
+      "DisplayName": "Infra",
+      "ColorIndex": 3
+    },
+    "96081b94-283d-46e6-9a4e-486e26a84053": {
+      "ProjectGuid": "96081b94-283d-46e6-9a4e-486e26a84053",
+      "DisplayName": "Core",
+      "ColorIndex": 4
+    },
+    "50298cae-205b-404d-b9f1-3091f3cd1b4c": {
+      "ProjectGuid": "50298cae-205b-404d-b9f1-3091f3cd1b4c",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
