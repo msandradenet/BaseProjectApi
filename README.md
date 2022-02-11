@@ -11,11 +11,11 @@ BaseProject é um projeto que estou iniciando para implementar boas praticas e n
 * [Unit Of Work] - Pattern Unit of Work.
 * [Fluent Validation](https://fluentvalidation.net/) - Biblioteca de validação.
 * [Auto Mapper](https://www.nuget.org/packages/automapper/) - Biblioteca para mapear objetos complexos.
-
+* [Docker](https://www.docker.com/) - Sistema de virtualização em containers.
+* 
 ## 📦 Futuras Implementações
 
 * [JWT](https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer) - JSON Web Tokens.
-* [Docker](https://www.docker.com/) - Sistema de virtualização em containers.
 
 #### ORM
 * [Entity Framework] - Framework de mapeamento Objeto/Relacional.
@@ -32,6 +32,9 @@ BaseProject é um projeto que estou iniciando para implementar boas praticas e n
 #### Patterns
 * [Mediator]
 * [Decorator]
+
+#### Cloud
+* [AWS] Publicar a aplicação no ambiente AWS
 
 ## ✒️ Autores
 
