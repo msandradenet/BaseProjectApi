@@ -1,0 +1,25 @@
+version: '3.4'
+
+services:
+ api:
+    container_name: api.net
+    image: ${DOCKER_REGISTRY-}api
+    build:
+        context: .
+        dockerfile: APi/Dockerfile
+    depends_on:
+      - sqlserver
+ sqlserver:
+    container_name: sql.server
+    hostname: 'sqlserver'
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=r00t.R00T
+    ports:
+      - "1433:1433"
+    expose:
+      - 1433
+
+
+      

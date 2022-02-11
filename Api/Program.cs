@@ -15,7 +15,7 @@ namespace API
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseStartup(Assembly.GetEntryAssembly().FullName);
+                    webBuilder.UseStartup<Startup>();
                 });
     }
 }
